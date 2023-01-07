@@ -1158,62 +1158,6 @@ transition: width .6s ease;
 
 /*responsive*/
 
-@media screen and (min-width: 900px) and (max-width: 1200px) 
-
- {
-    body {
-    width: 75%;
-    position: relative;
-    margin-left:0%;
-    margin-left: 0%;
-    margin-bottom: 0%;
-    margin-top: 0%;
-        background-color: rgb(20, 18, 25);
-        }
-}
-
-
-@media screen and (max-width: 900px) {
-    body  {
-    width: 5%;
-        position: relative;
-        margin-left:0%;
-        margin-left: 0%;
-        margin-bottom: 0%;
-        margin-top: 0%;
-        background-color: rgb(33, 32, 38);
-        }
-}
-
-
-@media screen and (max-width: 768px) {
-   
-    body  {
-    width: 5%;
-        position: relative;
-        
-        margin-left:0%;
-        margin-left: 0%;
-        margin-bottom: 0%;
-        margin-top: 0%;
-        background-color: rgb(65, 64, 64);
-            }
-        
-}
-
-@media screen and (max-width: 576px)
-{
-   body {
-        width: 5%;
-        position: relative;
-        margin-left:0%;
-        margin-left: 0%;
-        margin-bottom: 0%;
-        margin-top: 0%;
-        background-color: rgb(87, 86, 86);
-        }
-    
-}
 
 
 
