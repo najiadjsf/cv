@@ -8,7 +8,7 @@
     src: url(icomoon.ttf);
 }
 
-@media only screen and (max-width: 768px) {
+
 body {
     background-color: #121212; 
    
@@ -1220,10 +1220,14 @@ transition: width .6s ease;
 
     color: #383838
 }
-}
+
 /*responsive*/
 
-
+@media only screen and (max-width: 768px) {
+    
+    
+    
+}
 
 
 
